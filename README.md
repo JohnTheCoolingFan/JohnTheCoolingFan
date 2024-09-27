@@ -2,7 +2,7 @@ Hello, I am JohnTheCoolingfan, an actively learning developer.
 
 - Very experienced Linux desktop and server user (Debian derivatives, Arch Linux, Gentoo)
 - Maintainer of some boards in Armbian
-- A big Rust enthusiast
+- A big Rust enthusiast, experienced in async and wasm server applications (cloudflare workers)
 - Have a personal website: https://jtcf.ru/
 - Made [a web app](https://johnthecoolingfan.github.io/factorio-web-calculator/) (in rust, yea)
 - Made multiple Factorio mods
