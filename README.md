@@ -1,5 +1,6 @@
 Hello, I am JohnTheCoolingfan, an actively learning developer.
 
+- I use NO AI in my work. It's a personal preference, and my opinion is that it slows down development and reduces quality
 - Very experienced Linux desktop and server user (Debian derivatives, Arch Linux, Gentoo)
 - Maintainer of some boards in Armbian
 - A big Rust enthusiast, experienced in async and wasm server applications (cloudflare workers)
