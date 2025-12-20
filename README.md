@@ -1,4 +1,4 @@
-Hello, I am JohnTheCoolingfan, an actively learning developer.
+Hello, I am JohnTheCoolingFan, an actively learning developer.
 
 - I use NO AI in my work. It's a personal preference, and my opinion is that it slows down development and reduces quality
 - Very experienced Linux desktop and server user (Debian derivatives, Arch Linux, Gentoo)
