@@ -14,6 +14,7 @@ You can find me on Discord: @johnthecoolingfan
 Looking for a job and possibly a relocation opportunity because programming is my passion and I want a good life
 
 Crypto addresses for donation, if you appreciate some of my work:
+* XMR (Monero) address: `456zVSnqZoK7JAhGts5odQLezwsknXsSuYtE5KCoYSoJYtJxzNP1UVHSfb2TuiquaraAq2JMuf2o2368PKdJiTEzD6seUbq`
 * ETH address: `0x04CA1f16B192a85D508679b5610C6Ca5860Db06f`
 * TON address: `UQCgrXJeamT4r4m0POcJxkoxZmSYrNWUb9CeFsJlWUOr-O-7`
 * USDT TRC20 address: `TE8VywiHYx7xhn1piVtKYrXfZuukyK8jfp`
